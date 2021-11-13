@@ -180,6 +180,7 @@ people.supercell.com
 postrelay01.supercell.com
 www.postrelay01.supercell.com
 postrelay02.supercell.com
+privatebin.supercell.com
 proxy.supercell.com
 www.proxy.supercell.com
 ptr1.supercell.com
